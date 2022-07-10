@@ -1,0 +1,8 @@
+int main()
+{
+/*yyout = fopen("v1.txt","w");printf("Number of comment lines=%d",l);*/
+/*yyout = fopen("v1.txt","w");
+sdlds;
+dfk;s
+printf("Number of comment lines=%d",l);*/
+}
